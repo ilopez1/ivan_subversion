@@ -16,7 +16,7 @@ Scanner lector = new Scanner(System.in);
 	array[4]=n1.lector.nextInt();
 	array[5]=n1.lector.nextInt();
 	for(i=0; i<5;i++){
-	
+	int a;
 	}
 
 		
